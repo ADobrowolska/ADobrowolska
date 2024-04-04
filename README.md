@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Aleksandra!
+### Hi, I'm Aleksandra!
 
 Certification 🎓 Oracle - Java SE 8 Programmer Associate
 
